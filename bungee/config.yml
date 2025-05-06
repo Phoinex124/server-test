@@ -46,5 +46,5 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: eaglercradt15263.falixsrv.me
+    address: eaglercradt15263.falixsrv.me:39830
     restricted: false
